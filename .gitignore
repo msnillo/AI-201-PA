@@ -7,3 +7,6 @@ ENV/
 env.bak/
 venv.bak/
 ai201-env/
+
+#Jupyter notebooks
+.ipynb_checkpoints/
